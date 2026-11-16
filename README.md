@@ -4,7 +4,7 @@ I build software that keeps working when the network doesn't: **local-first AI t
 that run on your own GPU, **offline-first ERP and POS systems** running in real restaurants
 and factories, and fixes that ship in **open-source projects** used by millions.
 
-🌐 **[aryapatel.vercel.app](https://aryapatel.vercel.app)**
+🌐 **[aryapatel-dev.vercel.app](https://aryapatel-dev.vercel.app)**
 
 ---
 
